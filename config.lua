@@ -2,8 +2,8 @@ Config.Shops = {
     ['pdm'] = {
         ['ShowroomVehicles'] = {
             [1] = {
-                coords = vector4(-2220.8020, -377.3829, 13.3636, 318.2395), -- where the vehicle will spawn on display
-                defaultVehicle = 'divo',                       -- Default display vehicle
+                coords = vector4(-2220.8020, -377.3829, 13.3636, 318.2395), -- Coords for vehicle spawner
+                defaultVehicle = 'divo',                                    -- Vehicle Spawn Code 
             },
             [2] = {
                 coords = vector4(-2216.3118, -381.1669, 13.1155, 319.9619),
