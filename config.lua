@@ -1,3 +1,5 @@
+Config = {}
+
 Config.Shops = {
     ['pdm'] = {
         ['ShowroomVehicles'] = {
